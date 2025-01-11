@@ -1,0 +1,218 @@
+body {
+  background-color: #f5f5f5;
+}
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 160px;
+  padding-right: 160px;
+}
+nav h3 {
+  font-size: 32px;
+  color: #0e0e0e;
+  padding-left: 0px;
+}
+nav button {
+  padding: 15px 30px;
+  background-color: #f5f5f5;
+  border-color: #006a50;
+  color: #006a50;
+  font-weight: 600;
+  font-size: 18px;
+  border-radius: 8px;
+  margin-right: -17px;
+}
+.banner {
+  background-color: #c6e4d6;
+  display: flex;
+  justify-content: space-between;
+  height: 560px;
+  width: 1280px;
+  align-items: center;
+  padding-left: 160px;
+  padding-right: 160px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-top: 0px;
+  margin-bottom: 80px;
+  border-radius: 24px;
+}
+.banner-details {
+  height: 326px;
+  width: 622px;
+  margin: 0px;
+  padding: 0%;
+}
+
+.banner-pera {
+  color: #0e0e0e;
+  opacity: 50%;
+  font-size: 24px;
+  font-weight: 500;
+  height: 29px;
+  width: 622px;
+  margin: -13px 0px 0px -58px;
+}
+.banner-quote {
+  color: #0e0e0e;
+  font-size: 56px;
+  font-weight: 700;
+  height: 201px;
+  width: 622px;
+  margin: 6px 0px 0px -58px;
+}
+
+.banner-explore {
+  background-color: #006a50;
+  color: #ffffff;
+  height: 56px;
+  width: 270px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  margin: 33px 0px 0px -56px;
+}
+.P-of-BD {
+  color: #0e0e0e;
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0px 160px;
+}
+.piller-section {
+  margin: 0px 160px;
+  display: flex;
+  justify-content: space-between;
+}
+.card {
+  background-color: #fff;
+  width: 310px;
+  height: 212px;
+  padding: 24px;
+  margin-right: -19px;
+  margin-top: 32px;
+  border: 1px solid #0e0e0e26;
+  border-radius: 16px;
+}
+.card b {
+  font-size: 20px;
+  font-weight: 700;
+}
+.card p {
+  font-size: 16px;
+  color: #0e0e0eb3;
+}
+.card img {
+  height: 64px;
+  width: 64px;
+  display: flex;
+  justify-content: flex-start;
+  margin: 2px 0px 11px -3px;
+}
+.the-vision {
+  margin: 0px 160px;
+  margin-top: 80px;
+}
+
+.the-vision h2 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #0e0e0e;
+  margin-bottom: 24px;
+}
+.the-vision p {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+.vision-box img{
+  margin: 24px 0px 11px 0px;
+}
+.vision-box-p {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+.vision-box {
+  width: 410.67px;
+  height: 325px;
+  border-radius: 16px;
+  padding: 19px 44px;
+  margin: 0px -20px 0px 0px;
+}
+.vision-box b {
+  color: #0e0e0e;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0px 0px 0px 0px;
+}
+.vision-box P {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 27px 0px 0px 0px;
+}
+.vision-box button {
+  height: 41px;
+  width: 122px;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  margin: 47px 0px 0px 0px;
+}
+.vision-box-btn1 {
+  background-color: #5490f5;
+}
+.vision-box-btn2{
+  background-color: #09A15C;
+}
+.vision-box-btn3{
+  background-color: #FFC239;
+}
+
+.vision-box1 {
+  background-color: rgba(84, 144, 245, 0.2);
+}
+.vision-box2 {
+  background-color: rgba(198, 228, 214, 1);
+}
+.vision-box3 {
+  background-color: rgba(247, 235, 207, 1);
+}
+.vision-quote{
+  width: 1506px;
+  height: 160px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  padding: 14px 51px;
+  background-image: url(../assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: 49px 9px;
+  border: solid 1px rgba(14, 14, 14, 0.15);
+}
+.vision-quote p{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 16px;
+  font-weight: 400px;
+  margin: 27px 0px 4px 0px;
+}
+.vision-quote b{
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 20px;
+  font-weight: 600px;
+  margin: 0px 0px 0px 0px;
+}
+.p2{
+  color: rgba(14, 14, 14, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0px 0px 0px 0px;
+}
