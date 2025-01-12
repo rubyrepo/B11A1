@@ -329,43 +329,43 @@ nav button {
   border-bottom: 1px solid rgba(14, 14, 14, 0.15);
 }
 
-.donation-btn{
+.donation-btn {
   height: 56px;
   width: 151px;
-  border: 1px solid rgba(14, 14, 14, 0.1) ;
-  background-color: #006A50;
+  border: 1px solid rgba(14, 14, 14, 0.1);
+  background-color: #006a50;
   border-radius: 8px;
   color: #ffffff;
   font-size: 18px;
   font-weight: 600;
 }
-.newsletter{
-  height: 350PX;
-  width: 1620PX;
+.newsletter {
+  height: 350px;
+  width: 1620px;
   text-align: center;
   background-color: rgba(198, 228, 214, 1);
   margin: 0px 160px 100px 160px;
   border: none;
   border-radius: 24px;
 }
-.newsletter-title{
+.newsletter-title {
   font-size: 40px;
   font-weight: 520;
   color: rgba(14, 14, 14, 1);
   margin: 0px 0px 0px 0px;
   padding: 65px 0px 0px 0px;
 }
-.nesletter-p{
+.nesletter-p {
   color: rgba(14, 14, 14, 0.7);
   font-size: 16px;
   font-weight: 400;
   margin: 10px 0px 10px 0px;
 }
 /* subscribe */
-.subscribe{
+.subscribe {
   margin: 30px 0px 0px 0px;
 }
-.sub-input{
+.sub-input {
   height: 49px;
   width: 520px;
   padding: 0px 30px;
@@ -377,12 +377,12 @@ nav button {
   margin-right: 0px;
   margin-top: 0px;
 }
-.sub-btn{
+.sub-btn {
   height: 50px;
   width: 130px;
   border: none;
   border-radius: 0px 8px 8px 0px;
-  background-color: #006A50;
+  background-color: #006a50;
   margin-left: -15px;
   margin-top: 0px;
   color: #ffffff;
@@ -390,18 +390,18 @@ nav button {
   font-weight: 600;
 }
 
-.spam-message{
+.spam-message {
   font-size: 16px;
   font-weight: 400;
   color: rgba(14, 14, 14, 0.7);
   margin: 30px 0px 0px 0px;
 }
-footer{
-  background-color: #FFFFFF;
+.footer {
+  background-color: #ffffff;
   text-align: center;
   height: 200px;
 }
-.links{
+.links {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -409,18 +409,18 @@ footer{
   list-style: none;
 }
 
-.links li{
+.footer-links-li {
   margin: 10px 20px;
 }
 
-footer h2{
+.footer-h2 {
   color: rgba(14, 14, 14, 1);
   font-size: 32px;
   font-weight: 700;
-  padding : 25px 0px 0px 0px;
+  padding: 25px 0px 0px 0px;
 }
 
-footer hr{
+.footer-hr {
   width: 1500px;
   color: rgba(14, 14, 14, 0.1);
 }
