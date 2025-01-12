@@ -243,10 +243,37 @@ nav button {
   margin: 0px 53px 0px 53px;
 }
 .recent-news-card1 .box2, .recent-news-card2 .box2{
-  margin: 0px 80px 0px 53px;
+  margin: 0px 80px 0px 53px;  
 }
-.recent-news-card1 h2, .recent-news-card1 h2{
+.date-time, .p2{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+.date-time{
+  margin-top: 0px;
+}
+.rcn-ajr{
+  margin-top: 17px;
+  margin-bottom: 14px;
+}
+.recent-news-btn{
+  background-color: rgba(0, 106, 80, 1);
+  height: 48px;
+  width: 139px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 800;
+}
+#img-r-n{
+  margin: 0px -18px -10px 37px;;
+}
+
+.rcn-h2-1, .rcn-h2-2{
   font-size: 32px;
   font-weight: 700;
   color: rgba(14, 14, 14, 0.8);
+  margin-top: 31px;
 }
