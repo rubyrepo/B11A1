@@ -132,7 +132,7 @@ nav button {
   font-size: 16px;
   font-weight: 400;
 }
-.vision-box img{
+.vision-box img {
   margin: 24px 0px 11px 0px;
 }
 .vision-box-p {
@@ -171,11 +171,11 @@ nav button {
 .vision-box-btn1 {
   background-color: #5490f5;
 }
-.vision-box-btn2{
-  background-color: #09A15C;
+.vision-box-btn2 {
+  background-color: #09a15c;
 }
-.vision-box-btn3{
-  background-color: #FFC239;
+.vision-box-btn3 {
+  background-color: #ffc239;
 }
 
 .vision-box1 {
@@ -187,7 +187,7 @@ nav button {
 .vision-box3 {
   background-color: rgba(247, 235, 207, 1);
 }
-.vision-quote{
+.vision-quote {
   width: 1506px;
   height: 160px;
   background-color: #ffffff;
@@ -198,35 +198,36 @@ nav button {
   background-position: 49px 9px;
   border: solid 1px rgba(14, 14, 14, 0.15);
 }
-.vision-quote p{
+.vision-quote p {
   color: rgba(14, 14, 14, 0.8);
   font-size: 16px;
   font-weight: 400px;
   margin: 27px 0px 4px 0px;
 }
-.vision-quote b{
+.vision-quote b {
   color: rgba(14, 14, 14, 0.8);
   font-size: 20px;
   font-weight: 600px;
   margin: 0px 0px 0px 0px;
 }
-.p2{
+.p2 {
   color: rgba(14, 14, 14, 0.6);
   font-size: 16px;
   font-weight: 400;
   margin: 0px 0px 0px 0px;
 }
 
-.recent-news{
+.recent-news {
   padding: 0px 160px;
 }
 
-.recent-news-h2-1{
+.recent-news-h2-1 {
   font-size: 40px;
   font-weight: 700;
 }
 
-.recent-news-card1, .recent-news-card2{
+.recent-news-card1,
+.recent-news-card2 {
   margin-top: 32px;
   height: 402px;
   width: 1613px;
@@ -236,28 +237,31 @@ nav button {
   align-items: center;
   border-radius: 24px;
 }
-.recent-news-card1 .box1, .recent-news .box1{
+.recent-news-card1 .box1,
+.recent-news .box1 {
   border-radius: 16px;
   height: 306px;
   width: 408px;
   margin: 0px 53px 0px 53px;
 }
-.recent-news-card1 .box2, .recent-news-card2 .box2{
-  margin: 0px 80px 0px 53px;  
+.recent-news-card1 .box2,
+.recent-news-card2 .box2 {
+  margin: 0px 80px 0px 53px;
 }
-.date-time, .p2{
+.date-time,
+.p2 {
   color: rgba(14, 14, 14, 0.7);
   font-size: 16px;
   font-weight: 400;
 }
-.date-time{
+.date-time {
   margin-top: 0px;
 }
-.rcn-ajr{
+.rcn-ajr {
   margin-top: 17px;
   margin-bottom: 14px;
 }
-.recent-news-btn{
+.recent-news-btn {
   background-color: rgba(0, 106, 80, 1);
   height: 48px;
   width: 139px;
@@ -269,15 +273,154 @@ nav button {
   margin-top: 30px;
   margin-bottom: 50px;
 }
-#img-r-n{
-  margin: 0px -18px -10px 37px;;
+#img-r-n {
+  margin: 0px -18px -10px 37px;
 }
 
-.rcn-h2-1, .rcn-h2-2{
+.rcn-h2-1,
+.rcn-h2-2 {
   font-size: 32px;
   font-weight: 700;
   color: rgba(14, 14, 14, 0.8);
   margin-top: 31px;
 }
 
+.donation {
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.donation-h2 {
+  color: rgba(14, 14, 14, 1);
+  font-size: 40px;
+  font-weight: 700;
+}
+.donation-p {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+}
+.ammounts {
+}
+.amount-btn {
+  height: 107px;
+  width: 194px;
+  color: rgba(14, 14, 14, 0.8);
+  font-size: 40px;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background-color: #ffffff;
+  margin: 18px 0px 50px 32px;
+}
 
+.amount-btn:hover {
+  background-color: #c6e4d6;
+  cursor: pointer;
+}
+.other-ammount {
+  height: 50px;
+  width: 820px;
+  text-align: center;
+  border: none;
+  color: rgba(14, 14, 14, 0.3);
+  font-size: 20px;
+  font-weight: 400;
+  margin: -15px -30px 26px 0px;
+  border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+}
+
+.donation-btn{
+  height: 56px;
+  width: 151px;
+  border: 1px solid rgba(14, 14, 14, 0.1) ;
+  background-color: #006A50;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.newsletter{
+  height: 350PX;
+  width: 1620PX;
+  text-align: center;
+  background-color: rgba(198, 228, 214, 1);
+  margin: 0px 160px 100px 160px;
+  border: none;
+  border-radius: 24px;
+}
+.newsletter-title{
+  font-size: 40px;
+  font-weight: 520;
+  color: rgba(14, 14, 14, 1);
+  margin: 0px 0px 0px 0px;
+  padding: 65px 0px 0px 0px;
+}
+.nesletter-p{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  font-weight: 400;
+  margin: 10px 0px 10px 0px;
+}
+/* subscribe */
+.subscribe{
+  margin: 30px 0px 0px 0px;
+}
+.sub-input{
+  height: 49px;
+  width: 520px;
+  padding: 0px 30px;
+  border-radius: 8px 0px 0px 8px;
+  border: none;
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.3);
+  font-weight: 400;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+.sub-btn{
+  height: 50px;
+  width: 130px;
+  border: none;
+  border-radius: 0px 8px 8px 0px;
+  background-color: #006A50;
+  margin-left: -15px;
+  margin-top: 0px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.spam-message{
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(14, 14, 14, 0.7);
+  margin: 30px 0px 0px 0px;
+}
+footer{
+  background-color: #FFFFFF;
+  text-align: center;
+  height: 200px;
+}
+.links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px;
+  list-style: none;
+}
+
+.links li{
+  margin: 10px 20px;
+}
+
+footer h2{
+  color: rgba(14, 14, 14, 1);
+  font-size: 32px;
+  font-weight: 700;
+  padding : 25px 0px 0px 0px;
+}
+
+footer hr{
+  width: 1500px;
+  color: rgba(14, 14, 14, 0.1);
+}
