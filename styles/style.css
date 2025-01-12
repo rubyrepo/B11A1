@@ -225,54 +225,28 @@ nav button {
   font-size: 40px;
   font-weight: 700;
 }
-.recent-news-p1{
-  color: rgba(14, 14, 14, 0.7);
-  font-size: 16px;
-  font-weight: 400;
-}
-.recent-news-card1{
+
+.recent-news-card1, .recent-news-card2{
+  margin-top: 32px;
+  height: 402px;
+  width: 1613px;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
-  height: 402px;
-  width: 1336px;
   align-items: center;
-  margin: 40px 0px 0px 0px;
-  padding: 0px 274px 0px 0px ;
   border-radius: 24px;
-  
 }
-.recent-news-card1-box1 img {
+.recent-news-card1 .box1, .recent-news .box1{
+  border-radius: 16px;
   height: 306px;
   width: 408px;
-  border-radius: 24px;
-  margin: 14px 35px -4px 62px;
+  margin: 0px 53px 0px 53px;
 }
-.recent-nes-card1-box2{
-  margin: 0px 0px 0px 0px;
+.recent-news-card1 .box2, .recent-news-card2 .box2{
+  margin: 0px 80px 0px 53px;
 }
-.recent-nes-card1-box2 h2{
+.recent-news-card1 h2, .recent-news-card1 h2{
   font-size: 32px;
-  color: rgba(14, 14, 14, 0.8);
   font-weight: 700;
-}
-.date-time{
-  color: rgba(14, 14, 14, 0.7);
-  font-size: 16px;
-  font-weight: 400;
-}
-.not-until{
-  color: rgba(14, 14, 14, 0.7);
-  font-size: 16px;
-  font-weight: 400;
-}
-.recent-news-card1-btn{
-  height: 48px;
-  width: 139px;
-  font-size: 18px;
-  font-weight: 600;
-  border-radius: 8px;
-  color: white;
-  background-color: rgba(0, 106, 80, 1);
-  border: none  ;
+  color: rgba(14, 14, 14, 0.8);
 }
