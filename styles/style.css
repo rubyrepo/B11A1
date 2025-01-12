@@ -266,6 +266,8 @@ nav button {
   font-size: 18px;
   color: #ffffff;
   font-weight: 800;
+  margin-top: 30px;
+  margin-bottom: 50px;
 }
 #img-r-n{
   margin: 0px -18px -10px 37px;;
@@ -277,3 +279,5 @@ nav button {
   color: rgba(14, 14, 14, 0.8);
   margin-top: 31px;
 }
+
+
